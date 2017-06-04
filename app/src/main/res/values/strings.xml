@@ -1,0 +1,200 @@
+<resources>
+    <string name="app_name">Tour Me</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Entertainment">Entertainment</string>
+    <string name="Resturants">Restaurants</string>
+    <string name="Historical">Historical</string>
+    <string name="Resorts">Resorts</string>
+
+    <string name="dream_park">Dream Park</string>
+    <string name="al_azhar_park">Al Azhar Park</string>
+    <string name="adrenalin_paintball">Adrenalin Paintball</string>
+    <string name="el_reef_el_araby">El Reef El Araby</string>
+    <string name="africa_safari_park">Africa Safari Park</string>
+    <string name="giza_zoo">Giza Zoo</string>
+    <string name="hinthunt">Hint Hunt</string>
+    <string name="mindmaze">Mind Maze</string>
+    <string name="escape_room_egypt">Escape Room Egypt</string>
+    <string name="genena_mall">Genena Mall</string>
+
+    <string name="al_khal">Al Khal</string>
+    <string name="entrecote_steak_house">Entrecote Steak House</string>
+    <string name="holmes_burgers">Holmes Burgers</string>
+    <string name="Sabaya">Sabaya</string>
+    <string name="Potasta">Potasta</string>
+    <string name="pizza_roma">Pizza Roma</string>
+    <string name="la_fleur">La Fleur</string>
+    <string name="ll_frantoio">Ll Frantoio</string>
+    <string name="shark_resturant">Shark Resturant</string>
+    <string name="the_lantern_room">The Lantern Room</string>
+
+    <string name="pyramids_of_giza">Pyramids Of Giza</string>
+    <string name="luxor_temple">Luxor Temple</string>
+    <string name="qaitbay_citadel">Qaitbay Citadel</string>
+    <string name="memphis">Memphis</string>
+    <string name="valley_of_the_kings">Valley Of The Kings</string>
+    <string name="sakkara_pyramid">Sakkara Pyramid</string>
+    <string name="temple_of_philae">Temple Of Philae</string>
+    <string name="temple_of_karnak">Temple Of Karnak</string>
+    <string name="pompey_pillar">Pompey Pillar</string>
+    <string name="catacombs_of_kom_el_shoqafa">Catacombs Of Kom El Shoqafa</string>
+
+    <string name="desert_rose_resort">Desert Rose</string>
+    <string name="movenpick_resort">Movenpick</string>
+    <string name="old_palace_resort">Old Palace</string>
+    <string name="sheraton_miramar_resort">Sheraton Miramar</string>
+    <string name="three_corners_rihana_resort">Three Corners Rihana</string>
+    <string name="the_grand_resort_hurghada">The Grand Resort</string>
+    <string name="sultan_gardens_resort">Sultan Gardens</string>
+    <string name="four_seasons_resort">Four Seasons</string>
+    <string name="delta_sharm_resort">Delta Sharm</string>
+    <string name="baron_resort">Baron Resort</string>
+    <string name="info">Info</string>
+    <string name="location">Location</string>
+    <string name="title_activity_map">Map</string>
+
+    <!-- Restaurants Information -->
+    <string name="Sabaya_Restaurant_Info">\n<b>Average Prices:</b> EGP 452 - EGP 1,810\n\n<b>Good for:</b> Large groups, Local cuisine, Special occasions, Romantic, Business meetings, Families with children\n\n<b>Meals:</b> Lunch, Brunch, Dinner\n\n<b>Cuisine:</b> Lebanese, Mediterranean, Middle Eastern, Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options</string>
+    <string name="AlKhal_Restaurant_Info">\n<b>Good for:</b> Large groups, Local cuisine, Special occasions, Romantic, Business meetings, Families with children\n\n<b>Meals:</b> Lunch, Brunch, Dinner\n\n<b>Cuisine:</b> Middle Eastern, Egyptian, Arabic, Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options</string>
+    <string name="HolmesBurgers_Restaurant_Info">\n<b>Good for:</b> Families with children\n\n<b>Cuisine:</b> International</string>
+    <string name="Potasta_Restaurant_Info">\n<b>Average Prices:</b> EGP 36\n\n<b>Cuisine:</b> Healthy, Italian, Mediterranean</string>
+    <string name="Il_Frantoio_Restaurant_Info">\n<b>Good for:</b> Romantic, Business meetings\n\n<b>Meals:</b> Dinner\n\n<b>Cuisine:</b> Italian, Mediterranean, European, Vegetarian Friendly</string>
+    <string name="LaFleur_Restaurant_Info">\n<b>Good for:</b> Romantic, Business meetings\n\n<b>Meals:</b> Dinner, Late Night\n\n<b>Cuisine:</b> French, European, Vegetarian Friendly</string>
+    <string name="EntrecoteSteakHouse_Restaurant_Info">\n<b>Average Prices:</b> EGP 181 - EGP 1,086\n\n<b>Good for:</b> Romantic, Large groups, Special occasions, Families with children\n\n<b>Meals:</b> Dinner, Late Night\n\n<b>Cuisine:</b> Steakhouse, French, European</string>
+    <string name="TheLanternRoom_Restaurant_Info">\n<b>Good for:</b> Large groups, Romantic, Business meetings, Kids, Families with children, Special occasions, Local cuisine\n\n<b>Meals:</b> Dinner, Late Night\n\n<b>Cuisine:</b> Mediterranean, European, British, Soups, Egyptian, Vegetarian Friendly, Vegan Options</string>
+    <string name="PizzaRoma_Restaurant_Info">\n<b>Average Prices:</b> EGP 127\n\n<b>Good for:</b> Special occasions, Kids, Families with children, Large groups\n\n<b>Meals:</b> Lunch, Dinner, Brunch, Late Night\n\n<b>Cuisine:</b> Italian, Pizza, Mediterranean, Vegetarian Friendly, Halal, Vegan Options</string>
+    <string name="Shark_Restaurant_Info">\n<b>Good for:</b> Kids, Large groups, Families with children, Scenic view, Local cuisine, Special occasions, Romantic\n\n<b>Meals:</b> Brunch, Breakfast, Lunch, Dinner, Late Night\n\n<b>Cuisine:</b> Seafood, Mediterranean, Middle Eastern, Soups, Egyptian, International, Vegetarian Friendly, Halal, Vegan Options, Gluten Free Options</string>
+
+    <!-- Resorts Information -->
+    <string name="Baron_Resort_Info">\n<b>Price Range:</b> EGP 670 - EGP 1,900\n\n<b>Resort Class:</b> 5 Stars\n\n<b>Room Types:</b> Suites ,Non-Smoking Rooms ,Family Rooms\n\n<b>Number Of Rooms:</b> 360</string>
+    <string name="SultanGardens_Resort_Info">\n<b>Price Range:</b> EGP 579 - EGP 2,009\n\n<b>Resort Class:</b> 5 Stars\n\n<b>Room Types:</b> Suites ,Family Rooms ,Smoking rooms available ,Accessible rooms ,Non-Smoking Rooms\n\n<b>Number Of Rooms:</b> 520</string>
+    <string name="DesertRose_Resort_Info">\n<b>Price Range:</b> EGP 688 - EGP 3,474\n\n<b>Resort Class:</b> 5 Stars\n\n<b>Room Types:</b> Suites ,Non-Smoking Rooms ,Family Rooms ,Smoking rooms available ,Accessible rooms\n\n<b>Number Of Rooms:</b> 912</string>
+    <string name="TheGrand_Resort_Info">\n<b>Price Range:</b> EGP 995 - EGP 1,936\n\n<b>Room Types:</b> Suites ,Family Rooms\n\n<b>Number Of Rooms:</b> 828</string>
+    <string name="FourSeasons_Resort_Info">\n<b>Price Range:</b> EGP 4,831 - EGP 8,939\n\n<b>Resort Class:</b> 5 Stars\n\n<b>Room Types:</b> Suites ,Non-Smoking Rooms ,Family Rooms\n\n<b>Number Of Rooms:</b> 136</string>
+    <string name="DeltaSharm_Resort_Info">\n<b>Price Range:</b> EGP 271 - EGP 706\n\n<b>Resort Class:</b> 4 Stars\n\n<b>Room Types:</b> Kitchenette ,Suites ,Non-Smoking Rooms ,Family Rooms\n\n<b>Number Of Rooms:</b> 600</string>
+    <string name="OldPalace_Resort_Info">\n<b>Price Range:</b> EGP 832 - EGP 2,859\n\n<b>Resort Class:</b> 4 Stars\n\n<b>Room Types:</b> Suites ,Family Rooms ,Smoking rooms available ,Accessible rooms ,Non-Smoking Rooms\n\n<b>Number Of Rooms:</b> 292</string>
+    <string name="SheratonMiramar_Resort_Info">\n<b>Price Range:</b> EGP 1,050 - EGP 3,510\n\n<b>Resort Class:</b> 5 Stars\n\n<b>Room Types:</b> Suites ,Non-Smoking Rooms ,Family Rooms ,Smoking rooms available\n\n<b>Number Of Rooms:</b> 338</string>
+    <string name="Movenpick_Resort_Info">\n<b>Price Range:</b> EGP 1,285 - EGP 3,438\n\n<b>Resort Class:</b> 5 Stars\n\n<b>Room Types:</b> Suites ,Non-Smoking Rooms ,Family Rooms\n\n<b>Number Of Rooms:</b> 420</string>
+    <string name="ThreeCornersRihana_Resort_Info">\n<b>Price Range:</b> EGP EGP 670 - EGP 1,466\n\n<b>Resort Class:</b> 4 Stars\n\n<b>Room Types:</b> Non-Smoking Rooms ,Family Rooms ,Suites\n\n<b>Number Of Rooms:</b> 268</string>
+
+    <!-- Historical Sites Information -->
+    <string name="Memphis_HistoricalSite_Info">\n<b>Overview:</b> Memphis, founded around 3,100 BC, is the legendary city of Menes, the King who united Upper and Lower Egypt. Early on, Memphis was more likely a fortress from which Menes controlled the land and water routes between Upper Egypt and the Delta. Having probably originated in Upper Egypt, from Memphis he could control the conquered people of Lower Egypt. However, by the Third Dynasty, the building at Saqqara suggests that Memphis had become a sizable city</string>
+    <string name="TempleOfKarnak_HistoricalSite_Info">\n<b>Overview:</b> Karnak is the modern-day name for the ancient site of the Temple of Amun at Thebes, Egypt. The Egyptians called the site Nesut-Towi, "Throne of the Two Lands", Ipet-Iset, "The Finest of Seats" as well as Ipt-Swt, "Selected Spot" (also given as Ipetsut, "The Most Select of Places"). The original name has to do with the ancient Egyptian belief that Thebes was the first city founded on the primordial mound which rose from the waters of chaos at the beginning of the world. At that time, the creator-god Atum (sometimes Ptah) stood on the mound to begin the work of creation. The site of the temple was thought to be this original ground and the temple was raised at this spot for that reason. Karnak is believed to have been an ancient observatory as well as a place of worship where the god Amun would interact directly with the people of earth</string>
+    <string name="FortQaitbey_HistoricalSite_Info">\n<b>Overview:</b> Sultan Qaitbey built this picturesque fortress during the 14th century to defend Alexandria from the advances of the Ottoman Empire. His efforts were in vain since the Ottomans took control of Egypt in 1512, but the fortress has remained, strategically located on a thin arm of land that extends out into Alexandria’s harbor from the corniche</string>
+    <string name="PompeysPillar_HistoricalSite_Info">\n<b>Overview:</b> Its name is misleading. This single column standing on a rocky hilltop in the middle of Alexandria has nothing to do with the Roman Consul and General Gaius Pompey who was Julius Caesar’s rival in a civil war and was murdered by a Ptolomaic pharaoh in 48 BC when he fled to Alexandria.This legend was started by Crusaders, who thought the 100-foot (30 meter) red Aswan granite pillar marked his burial site. The pillar is instead the a triumphal monument erected around 300 AD for the Roman Emperor Diocletian, but the true significance of this archeological site is what stood here before the pillar.It is the site of the Serapeum, Alexandria’s acropolis</string>
+    <string name="CatacombsOfKomElShoqafa_HistoricalSite_Info">\n<b>Overview:</b> Situated just to the west of Pompys Pillar, the Catacombs of Kom El Shuqafa is the largest and most important burial site dating back to the Greco Roman period in Egypt.Kom El Shuqafa, meaning the hill of treasures in the Arabic language, was unearthed by coincidence in the beginning of the 20th century.Being the most important Greco Roman necropolis in Egypt, the Catacombs of Kom El Shuqafa have a mixture of Roman, Hellenistic, Pharaonic, and ancient Egyptian decorative art, elements that were common at this period in Alexandria.Dating back to the 2nd century AD, this necropolis was dug inside the rock to a depth of 35 meters, 115 feet, and it consists of three levels, all located under the ground level. However, due to the flooding that occurred in this area, the lowest level in now inaccessible</string>
+    <string name="PyramidsOfGiza_HistoricalSite_Info">\n<b>Overview:</b> The Giza Pyramids have become nearly synonymous with Egypt herself. Their incredible size continues to impress millions of visitors each year, as they struggle to comprehend how three kings, Khafre, Khufu, and Menkaure, could have constructed such huge structures so long ago.Despite their fame, the Giza Pyramids represent only a short moment in the long history of Ancient Egypt. All three great pyramids, as well as the secondary pyramids next to them, were built during the 4th dynasty of the Old Kingdom of Ancient Egypt. The Old Kingdom (c. 2686—2181 BC) was the first of the three major eras of Ancient Egypt’s history.. Archaeologists believe that the 4th dynasty (c. 2613—2493 BC) was the ‘golden age’ of the Old Kingdom because of the size and quality of the pyramids that were built during this time at Giza</string>
+    <string name="ValleyOfTheKings_HistoricalSite_Info">\n<b>Overview:</b> The Valley of the Kings is where the modern myth of Egypt began with Howard Carter’s discovery of Tutankhamun’s tomb, complete with all of the treasures with which he had been buried, in 1922. The fame of that discover ushered in a new era of Egyptian tourism as the treasures of Tutankhamun toured the world and generated new, widespread interest in the history of Ancient Egypt. The valley is not very impressive at first glance.It is not much more than a sun-blasted gorge of generic, red rock, but hidden underneath the earth are the tombs of nearly 70 pharaohs. Excavation is ongoing in some of them, but many are open to visitors on a rotating schedule to allow for restoration. Seeing the ornate decorations on the walls of these tombs and imagining the painstaking process necessary to create them is well worth the visit even in the hottest months</string>
+    <string name="LuxorTemple_HistoricalSite_Info">\n<b>Overview:</b> Luxor Temple, or The Temple of Luxor, is among the most beautiful Temples in Egypt. It was known in the New Kingdom period as Ipt-Rsyt, which means the southern shrine. This was to differentiate between this Temple and Karnak Temple, which was the northern house of Amon Ra.Amenhotep III built Luxor Temple. The architect and overseer of the works of construction was the genius Amenhotep, son of Habu. The Temple run close and parallel to the river Nile from north to south. It was constructed on the site of a small Temple of Amon, built by kings of the 12th dynasty. At the time of Amenhotep III the Temple was only 190m in length and 55m in width. Basically, Luxor Temple was consecrated to Amon Ra in his fertility aspect</string>
+    <string name="SakkaraPyramid_HistoricalSite_Info">\n<b>Overview:</b> Despite the fame of the Giza Pyramids, Saqqara is one of several other notable necropolis sites near Cairo that offer impressive sights and hold great archaeological significance. In fact, Saqqara may hold more interest to archaeologists than Giza. The huge site hosts burials dating from before the beginning of the Old Kingdom up through the Greek Period of Egyptian history.The most famous structure by far at Saqqara is Djoser’s Step Pyramid. Dating from the 3rd dynasty (2667—2448 BC), it was the first all-stone complex ever built on earth. It also displays an important architectural innovation for the construction of the Giza Pyramids and other later pyramids in the 4th dynasty and later</string>
+    <string name="TempleOfPhilae_HistoricalSite_Info">\n<b>Overview:</b> Philae Island was a rocky island in the middle of the River Nile, south of Aswan . It was called in Hieroglyphic "Apo" which means Ivory. It was also known by the Greek "Elephantine", most probably because it was an important centre of trade, especially for ivory.The Ancient Egyptians built a beautiful and magnificent Temple on this island for the Goddess Isis, but the Temple became submerged after the first Aswan dam was built in 1906, and it was not until the seventies that many nations attempted to save the Temple. All these countries, together with UNESCO, selected a suitable place, but they had to wait until the completion of the High Dam, in 1971, which would stabilize the level of the water around their chosen island</string>
+
+    <!-- Entertainment Information -->
+    <string name="HintHunt_Info">\n<b>Overview:</b> Hint-hunt, is one of the newest escape rooms opened lately, located at the district  sheraton. It has some good features as they have new ideas for games unlike the other  escape rooms, like real missions need to be done in only one hour which can explode  your mind, i mean who wouldnt like to forget about their concerns !! If you like to scout,  this game perfectly fits you.. beside their traditional escape games. The rooms are fully  equipped with all your needs for a really good game, they also give you some difficult  hints to solve your missing parts, but it helps ! We cairosnap were invited to try the  submarine game, it was a challenging mission and the co-working was hilarious.. staff  were friendly Very . Sadly they need better decorations for the place but it was a very  good experience to have</string>
+    <string name="EscapeRoom_Info">\n<b>Overview:</b> Escape Room is an interactive and intuitive real-life escape game. Locked in a room with a group of 2 to 6 people, participants have 60 minutes to solve challenging puzzles to escape the room</string>
+    <string name="MindMaze_Info">\n<b>Overview:</b> Youre locked in a room. The clock is ticking. Theres only one way out. In order to escape, you and your team will have to discover clues, solve puzzles, and accomplish tasks before your time runs out. An escape room is an interactive, live-action game that tests your wits and problem-solving skills. Its a fun, challenging experience thats great for team building or sheer entertainment</string>
+    <string name="AdrenalinPaintball_Info">\n<b>Overview:</b> Adrenalin Park is the only Outdoors Recreation Venue in Egypt Specialized in providing Adrenalin-Rush Activities in a Very Safe Environment for All Ages. Adrenalin offers variety of Unique Un-Traditional Activities as Paintball, Laser Fight, Aqua Fight, Treasure Hunt, Untraditional Olympics and Roman Olympics. Adrenalin serves both Corporate and Retail Clients; in Adrenalin Venue and in External Events</string>
+    <string name="AlAzharPark_Info">\n<b>Overview:</b> A peaceful oasis with a vast green space emerging in the midst of Cairo’s chaotic crowdedness, and noise, offering spectacular views over the city given that it is located on a hill.With trees, fountains, running water and a lake in additions to restaurants, a kids playground, and many music concerts taking place regularly at El-Genaina Theatre; the park makes a great escape for families to relax, or have a picnic, for kids to play, and run around freely, and for young lovers to enjoy their own little world</string>
+    <string name="AfricaSafariPark_Info">\n<b>Overview:</b> The first open Park in Egypt offering a jungle alike environment, and experience, with a variety of wildlife including lions, tigers, kangaroos, llamas, monkeys, chimpanzees, hippos, bears and others, in addition to various colorful fish, reptiles and birds, an extensive lake, plentiful green spaces, small islands and a waterfall, thus making an adventurous place for the family to spend a day out differently.The park features an African-styled restaurant called Zambezi serving various grilled dishes with African music playing in the background.When going to the park, don’t forget to bring your fishing gear along with you, as the lake offers an excellent fishing opportunity for fishing enthusiasts</string>
+    <string name="GenenaMall_Info">\n<b>Overview:</b> A nice place for a fun family evening inside the city. Featuring a skating hall both adults and children can enjoy in addition to several restaurants, and cafes serving different sorts of food, pastries, ice cream and drinks, while kids would definitely love Karmantas with its entertaining games, and amusement options good for every kid</string>
+    <string name="ElReefElAraby_Info">\n<b>Overview:</b> A distinctive village themed with a traditional rural style mud houses, vast green spaces, palm trees, and traditional mud ovens, bringing the old rural atmosphere to you, while you are still not too far from the city. Offering a remarkable experience with Tannoura performances, dancing horses, and traditional music, in addition to witnessing Feteer Meshaltit, and traditional bread (3eish Falla7y) making, by getting baked inside traditional mud ovens, bringing a delightful smell of old times. The village’s restaurant serves an extensive menu of traditional rural food like salted old cheese (mesh), duck, mahshy, molokhiya, and much more.The young ones will surely enjoy swimming in the pool, or playing at the kids area, while horse riding can offer a real thrill to everyone</string>
+    <string name="DreamPark_Info">\n<b>Overview:</b> Famous for its adrenalin pumping adventure rides, and its mega size, being one of the largest, and most unique amusement parks in the Middle East, with countless rides, shops, fun activities, simulators and restaurants making it an ideal place for a great time out, for the whole family</string>
+    <string name="GizaZoo_Info">\n<b>Overview:</b> Having gone through many unfortunate events lately, the park lost its glory as a major destination for family outings, yet it still can be a great place for children, especially first timers, as it hosts a wide range of animals, reptiles and birds that kids always love to see</string>
+
+    <!-- Restaurants Locations -->
+    <string name="Sabaya_Restaurant_Location">Corniche El Nil | Semiramis InterContinental Cairo, Cairo 11511, Egypt</string>
+    <string name="AlKhal_Restaurant_Location">InterContinental Cairo Citystars | Omar Bin Khattab Street, Cairo 11511, Egypt</string>
+    <string name="HolmesBurgers_Restaurant_Location">7 Ibrahim Nussair Street, Alexandria 21599, Egypt</string>
+    <string name="Potasta_Restaurant_Location">Moaskar Romany Street, Alexandria 21599, Egypt</string>
+    <string name="Il_Frantoio_Restaurant_Location">1 Four Seasons Boulevard, Sharm El Sheikh, Egypt</string>
+    <string name="LaFleur_Restaurant_Location">Naama Bay | Sharm El Sheikh, Sharm El Sheikh, Egypt</string>
+    <string name="EntrecoteSteakHouse_Restaurant_Location">Soho Square, | White Knight Beach, Sharm El Sheikh 169, Egypt</string>
+    <string name="TheLanternRoom_Restaurant_Location">Al Roda Al Sharifa Street | Luxor, Luxor 85836, Egypt</string>
+    <string name="PizzaRoma_Restaurant_Location">El-Mahdi Street on the corner of St. Joseph Hotel | Opposite street of sonesta hotel, Luxor 71111, Egypt</string>
+    <string name="Shark_Restaurant_Location">Masbat Bay, Dahab 46617, Egypt</string>
+
+    <!-- Resorts Locations -->
+    <string name="Baron_Resort_Location">Ras Nasrani Bay | P.O. Box 115, Sharm El Sheikh 46619, Egypt</string>
+    <string name="SultanGardens_Resort_Location">Coastal Road, Sharm El Sheikh 46199, Egypt</string>
+    <string name="DesertRose_Resort_Location">Safaga Road, Hurghada, Egypt</string>
+    <string name="TheGrand_Resort_Location">Red Sea / Corniche Road, Hurghada, Egypt</string>
+    <string name="FourSeasons_Resort_Location">1 Four Seasons Boulevard | Sinai Peninsula, Sharm El Sheikh, Egypt</string>
+    <string name="DeltaSharm_Resort_Location">Um El seed Cliff Crossing Main Rd and Tower Rd | Hay El Nour, Sharm El Sheikh, Egypt</string>
+    <string name="OldPalace_Resort_Location">Sahl Hasheesh | Red Sea, Hurghada, Egypt</string>
+    <string name="SheratonMiramar_Resort_Location">Red Sea, El Gouna, Hurghada, Egypt</string>
+    <string name="Movenpick_Resort_Location">Main Street | PO Box 72, El Gouna, Hurghada, Egypt</string>
+    <string name="ThreeCornersRihana_Resort_Location">Tamr Henna, El Gouna, Hurghada, Egypt</string>
+
+    <!-- Historical Sites Locations -->
+    <string name="Memphis_HistoricalSite_Location">Mit Rahina, Giza Governorate, Egypt</string>
+    <string name="TempleOfKarnak_HistoricalSite_Location">Luxor 81111, Egypt</string>
+    <string name="FortQaitbey_HistoricalSite_Location">88545 N 31. 21372 E 29., Alexandria 21599, Egypt</string>
+    <string name="PompeysPillar_HistoricalSite_Location">Alexandria, Egypt</string>
+    <string name="CatacombsOfKomElShoqafa_HistoricalSite_Location">Carmous, Alexandria 21599, Egypt</string>
+    <string name="PyramidsOfGiza_HistoricalSite_Location">Al Haram Str., Giza 12611, Egypt</string>
+    <string name="ValleyOfTheKings_HistoricalSite_Location">Luxor City, Luxor, Egypt</string>
+    <string name="LuxorTemple_HistoricalSite_Location">Corniche El Nil St. Luxor, Luxor, Egypt</string>
+    <string name="SakkaraPyramid_HistoricalSite_Location">Saqarah, Al Badrashin, Giza Governorate</string>
+    <string name="TempleOfPhilae_HistoricalSite_Location">Island of Agilika, Aswan, Egypt</string>
+
+    <!-- Entertainment Locations -->
+    <string name="HintHunt_Location">The District Mall, El Nasr Road, In front of Wadi Degla Sheraton Club, Cairo, Egypt</string>
+    <string name="EscapeRoom_Location">104 Omar Ibn El-Khattab Street, Cairo 11511, Egypt</string>
+    <string name="MindMaze_Location">34 Street 206, Degla, Maadi, Cairo 11511, Egypt</string>
+    <string name="AdrenalinPaintball_Location">Gate 1 El Hezam El Akhdar, Cairo 11511, Egypt</string>
+    <string name="AlAzharPark_Location">Salah Salem Street, Al Darassa, Old Cairo, Egypt</string>
+    <string name="AfricaSafariPark_Location">69 Km, when coming from Alexandria from Cairo, on Cairo-Alexandria desert road, Egypt</string>
+    <string name="GenenaMall_Location">9 El-Batrawy st. off Abaas El-Akaad st. – Nasr City – Cairo, Egypt</string>
+    <string name="ElReefElAraby_Location">EL Maryotiyah, Giza , Egypt</string>
+    <string name="DreamPark_Location">Oasis Road, Cairo, Egypt</string>
+    <string name="GizaZoo_Location">Al-Nahda Square, Giza , Egypt</string>
+
+    <!-- Contact Information's -->
+
+    <string name="HintHunt_Contact">\n<b>Phone Number:</b> +20 122 040 8090\n\n<b>Web Site:</b> https://www.hinthunt.com</string>
+    <string name="EscapeRoom_Contact">\n<b>Phone Number:</b> +20 102 222 2048\n\n<b>Web Site:</b> http://escaperoom.com/cairo</string>
+    <string name="MindMaze_Contact">\n<b>Phone Number:</b> +20 101 766 6615\n\n<b>Web Site:</b> http://www.mind-maze.com</string>
+    <string name="AdrenalinPaintball_Contact">\n<b>Phone Number:</b> +20 122 500 1008\n\n<b>Web Site:</b> http://www.adrenalinegypt.com</string>
+    <string name="AlAzharPark_Contact">\n<b>Phone Number:</b> +2 025103868\n\n<b>Web Site:</b> http://www.azharpark.com</string>
+    <string name="AfricaSafariPark_Contact">\n<b>Phone Number:</b> +20 122 360 0967\n\n<b>Web Site:</b> http://www.africasafariegypt.com</string>
+    <string name="GenenaMall_Contact">\n<b>Phone Number:</b> +2 020820621\n\n<b>Web Site:</b> http://www.genena.com/</string>
+    <string name="ElReefElAraby_Contact">\n<b>Phone Number:</b> +20 101 400 0875\n\n<b>Web Site:</b> http://www.elreefelaraby.com</string>
+    <string name="DreamPark_Contact">\n<b>Phone Number:</b> +2 0238553191 \n\n<b>Web Site:</b> http://www.dreamparkegypt.com/</string>
+    <string name="GizaZoo_Contact">\n<b>Phone Number:</b> +2 02 35701552\n\n<b>Web Site:</b> http://www.egyptzoo.com</string>
+    <string name="Sabaya_Contact">\n<b>Phone Number:</b> +20 2 27988000\n\n<b>Web Site:</b>https://www.ihg.com/intercontinental/hotels/gb/en/cairo/croha/hoteldetail</string>
+    <string name="AlKhal_Contact">\n<b>Phone Number:</b> +20 2 24800009\n\n<b>Web Site:</b> https://www.ihg.com/intercontinental/hotels/gb/en/cairo/crohc/hoteldetail#eatanddrink</string>
+    <string name="HolmesBurgers_Contact">\n<b>Phone Number:</b> +20 109 881 3977\n\n<b>Web Site:</b> https://www.roundmenu.com/alexandria/holmes-burgers</string>
+    <string name="Potasta_Contact">\n<b>Phone Number:</b> +20 100 900 2124\n\n<b>Web Site:</b> https://www.roundmenu.com/alexandria/potasta</string>
+    <string name="Il_Frantoio_Contact">\n<b>Phone Number:</b> +20 69 3603555\n\n<b>Web Site:</b> http://www.fourseasons.com/sharmelsheikh/dining/restaurants/il_frantoio</string>
+    <string name="LaFleur_Contact">\n<b>Phone Number:</b> +2 069 3600100\n\n<b>Web Site:</b> https://www.elmenus.com/sharm-el-sheikh/restaurants/la-fleur-6238/naama-bay-8657</string>
+    <string name="EntrecoteSteakHouse_Contact">\n<b>Phone Number:</b> +20 100 010 9109\n\n<b>Web Site:</b> http://www.soho-sharm.com</string>
+    <string name="TheLanternRoom_Contact">\n<b>Phone Number:</b> +20 95 2361451\n\n<b>Web Site:</b> https://www.facebook.com/The-Lantern-Room-Restaurant-in-Luxor-218632264864470</string>
+    <string name="PizzaRoma_Contact">\n<b>Phone Number:</b> +20 111 879 9559\n\n<b>Web Site:</b> https://www.facebook.com/pages/Pizza-Roma/512966385389330</string>
+    <string name="Shark_Contact">\n<b>Phone Number:</b> +20 101 313 3348\n\n<b>Web Site:</b> http://sharkrestaurantdahab.weebly.com</string>
+    <string name="Memphis_Contact">\n<b>Web Site:</b> http://whc.unesco.org/en/list/86</string>
+    <string name="TempleOfKarnak_Contact">\n<b>Phone Number:</b> +20 100 016 1564\n\n<b>Web Site:</b> https://discoveringegypt.com/karnak-temple</string>
+    <string name="FortQaitbey_Contact">\n<b>Web Site:</b> https://www.memphistours.com/Egypt/Egypt-Wikis/Alexandria-Attractions/wiki/Qaitbay-Citadel</string>
+    <string name="PompeysPillar_Contact">\n<b>Web Site:</b> https://www.memphistours.com/Egypt/Egypt-Wikis/Alexandria-Attractions/wiki/Pompeys-Pillar-Alexandria</string>
+    <string name="CatacombsOfKomElShoqafa_Contact">\n<b>Phone Number:</b> +20 122 707 6302\n\n<b>Web Site:</b> http://www.elbadritravel.com/</string>
+    <string name="PyramidsOfGiza_Contact">\n<b>Web Site:</b> https://www.memphistours.com/Egypt/Egypt-Wikis/Egypt-Pyramids/wiki/Giza-Necropolis</string>
+    <string name="ValleyOfTheKings_Contact">\n<b>Web Site:</b> http://www.nationalgeographic.com/archaeology-and-history/archaeology/valley-of-the-kings/</string>
+    <string name="LuxorTemple_Contact">\n<b>Web Site:</b> https://www.ask-aladdin.com/Temples-of-Egypt/luxortemple.html</string>
+    <string name="SakkaraPyramid_Contact">\n<b>Phone Number:</b> +20 123 456 789\n\n<b>Web Site:</b> http://www.saqqara.nl/saqqara/history</string>
+    <string name="TempleOfPhilae_Contact">\n<b>Web Site:</b> https://www.ask-aladdin.com/Temples-of-Egypt/Philae.html</string>
+    <string name="Baron_Contact">\n<b>Phone Number:</b> +20 693670100\n\n<b>Web Site:</b> http://www.baronhotels.com</string>
+    <string name="SultanGardens_Contact">\n<b>Phone Number:</b> +20 693602131\n\n<b>Web Site:</b> http://www.sultangardens.com/en</string>
+    <string name="DesertRose_Contact">\n<b>Phone Number:</b> +20 653460603\n\n<b>Web Site:</b> https://www.desertrose.com/en</string>
+    <string name="TheGrand_Contact">\n<b>Phone Number:</b> +20 653463115\n\n<b>Web Site:</b> http://the-grand-resort.hotel-hurghada.com/en</string>
+    <string name="FourSeasons_Contact">\n<b>Phone Number:</b> +20 693603555\n\n<b>Web Site:</b> http://www.fourseasons.com/sharmelsheikh/landing_3/?source=tasharmelsheikhblhotel</string>
+    <string name="DeltaSharm_Contact">\n<b>Phone Number:</b> +20 693623200\n\n<b>Web Site:</b> http://www.deltasharm.com/</string>
+    <string name="OldPalace_Contact">\n<b>Phone Number:</b> +20 128 311 0303\n\n<b>Web Site:</b> http://www.oldpalaceresort.com/</string>
+    <string name="SheratonMiramar_Contact">\n<b>Phone Number:</b> +20 653545606\n\n<b>Web Site:</b> http://www.sheratonmiramarresort.com</string>
+    <string name="Movenpick_Contact">\n<b>Phone Number:</b> +20 653544501\n\n<b>Web Site:</b> http://www.movenpick.com/en/africa/egypt/hurghada/resort-el-gouna</string>
+    <string name="ThreeCornersRihana_Contact">\n<b>Phone Number:</b> +20 653580025\n\n<b>Web Site:</b> https://threecorners.com/hotels/rihana-resort-deluxe</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="show_map_location">Show Map Location</string>
+    <string name="Musium_test_text">Museum</string>
+    <string name="tour_info_text_test">The Tour Info</string>
+
+</resources>
